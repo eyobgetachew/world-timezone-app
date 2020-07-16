@@ -36,6 +36,7 @@
 				<password>Haniel2681#</password>
 				<environment>sandbox</environment>
 				<workers>1</workers>
+				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				</cloudhubDeployment>
